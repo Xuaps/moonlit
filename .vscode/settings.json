@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/dvilchez/.platformio/penv/bin:/Users/dvilchez/.platformio/penv:/Users/dvilchez/.nvm/versions/node/v6.11.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/dvilchez/.fzf/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
